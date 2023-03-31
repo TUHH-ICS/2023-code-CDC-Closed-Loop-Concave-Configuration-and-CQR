@@ -10,10 +10,12 @@ Reminder:
 The simulations contain two cases
 
 %% case 1
-The main simulink file `linear_simulation.slx` contains the all simulation model for the linear case. One can use `linear_optimal.m` to calculate the optimal gain, and the optimization framework is implemented as presented in `CLDBNA_OPTIMAL.m `.
+First, we need to run the file `case1.m` in 'paramenter' to set up the necesseary parameters for the simulation. Then, one can use `Case1simulink.slx` to obtain all the results proposed in this paper. 
 
-%% nonlinear case
-For the nonlinear case, the file `NONLINEAR_CASE_simulation.slx` contains everything in one file.
+%% case 2
+First, we need to run the file `case2.m` in 'paramenter' to set up the necesseary parameters for the simulation. Then, one can use `Case2simulink.slx` to obtain all the results proposed in this paper. 
+
+All simulation files are available in the Directory of 'Matlab files'.
 
 The simulation code in this repository was tested in the following environment:
 
