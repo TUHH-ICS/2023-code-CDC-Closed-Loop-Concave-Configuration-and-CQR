@@ -4,6 +4,15 @@
 % Institute: ICS of TUHH
 % shuyuan.fan@tuhh.de
 
+%---------------------------------------------------------------------------------------------
+% For Paper, 
+% "Closed-loop Concave Configurations and Concave Quadratic Regulator"
+% by Shuyuan Fan and Herbert Werner
+% Copyright (c) Institute of Control Systems, Hamburg University of Technology. All rights reserved.
+% Licensed under the GPLv3. See LICENSE in the project root for license information.
+% Author(s): Shuyuan Fan
+%--------------------------------------------------------------------------------------------
+
 
 rho_0 = 10;
 k_max = 10;
